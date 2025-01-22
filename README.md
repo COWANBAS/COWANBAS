@@ -1,9 +1,6 @@
-[![card](https://github-readme-stats.vercel.app/api?username=COWANBAS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+⁸[![card](https://github-readme-stats.vercel.app/api?username=COWANBAS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=COWANBAS&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 #
 https://greasyfork.org/en/users/1343842-cowanbas
-#
-https://xdaforums.com/m/cowanbas.12857427/
-#
-https://stackoverflow.com/users/29316079/cowanbas
+
