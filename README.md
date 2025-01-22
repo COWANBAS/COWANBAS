@@ -7,5 +7,3 @@
 https://greasyfork.org/en/users/1343842-cowanbas
 #
 https://openuserjs.org/users/Cowanbas
-#
-https://stackoverflow.com/users/29316079/cowanbas
