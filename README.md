@@ -6,6 +6,6 @@
 #
 https://greasyfork.org/en/users/1343842-cowanbas
 #
-https://xdaforums.com/m/cowanbas.12857427/
+https://openuserjs.org/users/Cowanbas
 #
 https://stackoverflow.com/users/29316079/cowanbas
