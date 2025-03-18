@@ -1,8 +1,6 @@
 # SOBRE MIM
 Estudante de Engenharia Civil, atualmente no terceiro semestre da faculdade, tenho experiências com Excel avançado, Word, Power BI, WordPress, JavaScript e AutoCAD. Estudo programação como hobby, tendo foco em aprender JavaScript, Batch e Python para automatizar certas tarefas no meu dia a dia e otimizar meu tempo. Gosto de tomar iniciativa em projetos e criar grupos onde posso usar da minha oratória para guiar e inspirar a equipe.
 
-Atualmente, sou estagiário de Engenharia Civil no setor de planejamento e controle na empresa JC Gontijo.
-
 # DADOS
 [![card](https://github-readme-stats.vercel.app/api?username=COWANBAS&theme=dark&disable_animations=TRUE&locale=PT-BR)](https://github.com/COWANBAS) 
 &nbsp;
