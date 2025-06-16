@@ -1,5 +1,5 @@
 # SOBRE MIM
-Estudante de Engenharia Civil, atualmente no terceiro semestre da faculdade. Tenho experiência com Excel, Word, Power BI, WordPress, JavaScript e AutoCAD. Estudo programação e investimentos em renda variável na B3 como hobby, focando em aprender JavaScript, Batch e Python para automatizar tarefas do dia a dia e otimizar meu tempo. Gosto de tomar iniciativa em projetos e formar equipes.
+Estudante de Engenharia Civil, atualmente no quarto semestre da faculdade. Tenho experiência com Excel, Word, Power BI, WordPress, JavaScript e AutoCAD. Estudo programação e investimentos em renda variável na B3 como hobby, focando em aprender JavaScript, Batch e Python para automatizar tarefas do dia a dia e otimizar meu tempo. Gosto de tomar iniciativa em projetos e formar equipes.
 
 Atualmente, sou estagiário de Engenharia no setor de planejamento e controle na empresa JC Gontijo.
 
