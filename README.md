@@ -12,6 +12,3 @@ Atualmente, sou estagiário de Engenharia no setor de planejamento e controle na
 &nbsp;
 [![OpenUser](https://img.shields.io/badge/OpenUser-151515?labelColor=7D7D7D)](https://openuserjs.org/users/Cowanbas)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?labelColor=7D7D7D)](https://www.linkedin.com/in/kauan-fonseca-ruiz-de-carvalho)
-&nbsp;
-[![OrcID](https://img.shields.io/badge/OrcID-151515?labelColor=7D7D7D)](https://orcid.org/0009-0001-9071-4116)
