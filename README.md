@@ -1,4 +1,3 @@
-# DADOS
 [![card](https://github-readme-stats.vercel.app/api?username=COWANBAS&theme=dark&disable_animations=TRUE&locale=PT-BR)](https://github.com/COWANBAS) 
 &nbsp;
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=COWANBAS&hide=html&layout=compact&theme=dark&disable_animations=TRUE&locale=PT-BR&card_width=450)](https://github.com/COWANBAS)
