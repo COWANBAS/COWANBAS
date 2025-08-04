@@ -6,3 +6,5 @@
 &nbsp;
 [![OpenUser](https://img.shields.io/badge/OpenUser-151515?labelColor=7D7D7D)](https://openuserjs.org/users/Cowanbas)
 &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?labelColor=7D7D7D)](https://linkedin.com/in/kauan-fonseca-ruiz-de-carvalho)
+&nbsp;
