@@ -5,8 +5,6 @@ Atualmente, sou estagiário de Engenharia no setor de planejamento e controle na
 &nbsp;
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=COWANBAS&hide=html&layout=compact&theme=dark&disable_animations=TRUE&locale=PT-BR&card_width=450)](https://github.com/COWANBAS)
 #
-Meus Perfil
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-151515?labelColor=7D7D7D)](https://linkedin.com/in/kauan-fonseca-ruiz-de-carvalho)
 &nbsp;
 [![GreasyFork](https://img.shields.io/badge/GreasyFork-151515?labelColor=7D7D7D)](https://greasyfork.org/en/users/1343842-cowanbas)
