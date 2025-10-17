@@ -11,3 +11,4 @@ Atualmente, sou estagiário de Engenharia no setor de planejamento e controle.
 &nbsp;
 [![OpenUser](https://img.shields.io/badge/OpenUser-151515?labelColor=7D7D7D)](https://openuserjs.org/users/Cowanbas)
 &nbsp;
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
