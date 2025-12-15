@@ -1,4 +1,4 @@
-Estudante de Engenharia Civil, atualmente no quarto semestre da faculdade. Tenho experiência com Excel, Word, Power BI, WordPress, JavaScript, Python e AutoCAD. Estudo programação e investimentos como hobby, focando em aprender JavaScript, Batch, Vba e Python para automatizar tarefas do dia a dia.
+Estudante de Engenharia Civil, atualmente no quinto semestre da faculdade. Tenho experiência com Excel, Word, Power BI, WordPress, JavaScript, Python e AutoCAD. Estudo programação e investimentos como hobby, focando em aprender JavaScript, Batch, Vba e Python para automatizar tarefas do dia a dia.
 Atualmente, sou estagiário de Engenharia no setor de planejamento e controle.
 #
 [![card](https://github-readme-stats.vercel.app/api?username=COWANBAS&theme=dark&disable_animations=TRUE&locale=PT-BR)](https://github.com/COWANBAS) 
